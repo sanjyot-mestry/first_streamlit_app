@@ -1,1 +1,3 @@
-def __init__():
+import streamlit
+
+streamlit.title("Something interesting coming soon ......")
